@@ -1,0 +1,139 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  font-size: 3em;
+  color: #40514E;
+}
+
+.profile {
+  width: 50%;
+  text-align: center;
+  margin: 0px auto;
+  padding-top: 2rem;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 200px;
+  position: relative;
+}
+
+.middle-container {
+  background-color: white;
+}
+
+.skill-row {
+  margin: 0 auto 0 auto;
+  width: 50%;
+  text-align: left;
+
+  font-size: 30%;
+}
+
+.skill-image {
+  width: 25%;
+  float: left;
+  padding-right: 1em;
+}
+
+.skill-image1 {
+  width: 25%;
+  float: right;
+  padding-left: 1em;
+}
+
+.skills {
+  position: relative;
+  left: 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 4%;
+}
+
+h1 {
+  margin: 0 auto;
+  line-height: 2;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  margin: 0 auto 0 auto;
+  font-family: 'Montserrat', sans-seri;
+  color: #66BFBF;
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: 2rem;
+}
+
+p {
+  color: #40514E;
+  font-size: 1.3rem;
+  line-height: 2;
+}
+
+.copyright {
+  color: #EAF6F6;
+  margin-bottom: 0;
+  font-size: 0.25em;
+  padding-bottom: 1em;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 20%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 15%;
+  top: 70px;
+  height: 8%;
+  width: 15%;
+}
+
+.profile-pic {
+  height: 200px;
+}
+
+.profile-icon {
+  height: 50px;
+}
+
+hr {
+  border-style: dotted;
+  border-top: 100%;
+  border-bottom: 0;
+  width: 10%;
+  border-width: 10px;
+  color: #DDDDDD;
+}
+
+.description-python {
+  padding-bottom: 2em;
+}
+
+.description-chillies {
+  padding-bottom: 2em;
+}
+
+.mail {
+  height: 5rem;
+}
+
+.mail:hover {
+  background-color: gray;
+}
+.contact-me-description{
+  width: 40%;
+  margin: 0 auto;
+  padding: 2rem 0;
+}
